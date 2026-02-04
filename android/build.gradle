@@ -8,7 +8,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.8.0'
+        classpath 'com.android.tools.build:gradle:8.13.2'
     }
 }
 
@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdk 35
+    compileSdk 36
     namespace 'in.lazymanstudios.uri_to_file'
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_21
