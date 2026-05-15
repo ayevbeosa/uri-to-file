@@ -6,8 +6,6 @@ repository: https://github.com/Nikhil1999/uri-to-file
 issue_tracker: https://github.com/Nikhil1999/uri-to-file/issues
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
-# Flutter 3.10.6
-
 environment:
   sdk: '>=3.11.1 <4.0.0'
   flutter: ">=3.41.0"

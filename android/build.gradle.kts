@@ -13,7 +13,6 @@ repositories {
         mavenCentral()
     }
 
-
 android {
     compileSdk =37
     namespace = "in.lazymanstudios.uri_to_file"
