@@ -14,7 +14,7 @@ repositories {
     }
 
 android {
-    compileSdk =37
+    compileSdk = 36
     namespace = "in.lazymanstudios.uri_to_file"
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_21
@@ -22,6 +22,6 @@ android {
     }
 
     defaultConfig {
-        minSdk = 24
+        minSdk = 21
     }
 }
